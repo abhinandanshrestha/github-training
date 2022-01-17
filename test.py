@@ -4,10 +4,10 @@ def fun_common():
 def child():
     fun_common()
 
-def child5():
+def child11():
     fun_common()
 
-def child6():
+def child10():
     fun_common()
     #feature added
 
