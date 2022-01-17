@@ -10,3 +10,6 @@ def child5():
 def child6():
     fun_common()
     #feature added
+
+def hello():
+    pass
