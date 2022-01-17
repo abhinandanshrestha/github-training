@@ -4,9 +4,9 @@ def fun_common():
 def child():
     fun_common()
 
-def child2():
+def child5():
     fun_common()
 
-def child3():
+def child6():
     fun_common()
     #feature added
