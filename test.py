@@ -1,11 +1,14 @@
-def fun_common():
-    pass
+import one
 
-def child():
-    fun_common()
+if __name__=='__main__':
+    def fun_common():
+        pass
 
-def child2():
-    fun_common()
+    def child():
+        fun_common()
 
-def child3():
-    fun_common()
+    def child2():
+        fun_common()
+
+    def child3():
+        fun_common()
