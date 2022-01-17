@@ -4,4 +4,5 @@ def fun_common():
 def child():
     fun_common()
 
-#end child
+def child2():
+    fun_common()
